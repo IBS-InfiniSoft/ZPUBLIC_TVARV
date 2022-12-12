@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Helper for stvarv settings</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+     <CMPNAME>GET_PARAM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get parameter</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+     <CMPNAME>GET_SELOPT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get select-options</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+     <CMPNAME>IS_EXISTS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Parameter\Se</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+     <CMPNAME>MCS_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Type of selection</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+     <CMPNAME>MT_PARAM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Params buffer</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PUB_TVARV</CLSNAME>
+     <CMPNAME>MT_SELOPT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sel.opt. buffer</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
